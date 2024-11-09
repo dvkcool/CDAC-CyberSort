@@ -25,7 +25,7 @@ subcategory_to_guideline = {
     'Email Hacking': 'Email Hacking',
     'Hacking/Defacement': 'Defacement/Hacking',
     'Unauthorised AccessData Breach': 'Unauthorized Access/Data Breach',
-    'SQL Injection': 'Any Other Cyber Crime',
+    'SQL Injection': 'Unauthorized Access/Data Breach',
     'Provocative Speech for unlawful acts': 'Provocative Speech of Unlawful Acts',
     'Ransomware Attack': 'Ransomware',
     'Cyber Terrorism': 'Cyber Terrorism',
@@ -42,7 +42,7 @@ subcategory_to_guideline = {
     'Against Interest of sovereignty or integrity of India': 'Any Other Cyber Crime',
     'Computer Generated CSAM/CSEM': 'Child Pornography/Child Sexual Abuse Material (CSAM)',
     'Cyber Blackmailing & Threatening': 'Any Other Cyber Crime',
-    'Sexual Harassment': 'Any Other Cyber Crime'
+    'Sexual Harassment': 'Rape/Gang Rape-Sexually Abusive Content'
 }
 
 # Define the mapping for categories when sub_category is empty
@@ -158,11 +158,16 @@ def map_to_main_category(subcategory):
             return main_category
     return "Other Cyber Crime"  # Default category if no match is found
 
-# Apply the mapping
-df['Mapped_Subcategory'] = df.apply(map_subcategory, axis=1)
-df['Mapped_Main_Category'] = df['Mapped_Subcategory'].apply(map_to_main_category)
+df['true_subcategory'] = df.apply(map_subcategory, axis=1)
+df['true_category'] = df['true_subcategory'].apply(map_to_main_category)
+
+# Keep only the required columns: 'true_category', 'true_subcategory', and 'complaint'
+df = df[['true_category', 'true_subcategory', 'crimeaditionalinfo']]
+
+# Rename the 'crimeaditionalinfo' column to 'complaint'
+df.rename(columns={'crimeaditionalinfo': 'complaint'}, inplace=True)
 
 # Save the updated dataframe to a new CSV file
 df.to_csv("mapped_data.csv", index=False)
 
-print("Subcategories and Categories have been mapped successfully!")
+print("Subcategories, Categories, and Complaints have been mapped successfully!")
