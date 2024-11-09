@@ -1,0 +1,73 @@
+Financial Fraud Crimes , Debit/Credit Card Fraud , Financial Fraud Crimes , Demat/Depository Fraud
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Online Job Fraud , Other Cyber Crime , Any Other Cyber Crime
+Financial Fraud Crimes , Cryptocurrency Crime , Financial Fraud Crimes , Cryptocurrency Crime
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , Demat/Depository Fraud
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , E-Wallet Related Frauds
+Women/Child Related Crime , Child Pornography/Child Sexual Abuse Material (CSAM) , Other Cyber Crime , Cyber Bullying/Stalking/Sexting
+Financial Fraud Crimes , Online Matrimonial Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Debit/Credit Card Fraud , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
+Women/Child Related Crime , Online Matrimonial Fraud, Email Phishing, Identity Theft, Profile Hacking/Identity Theft , Other Cyber Crime , Any Other Cyber Crime
+Women/Child Related Crime , Online Matrimonial Fraud , Other Cyber Crime , Unauthorized Access/Data Breach
+Financial Fraud Crimes , Debit/Credit Card Fraud , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
+Women/Child Related Crime , Online Cyber Trafficking , Women/Child Related Crime , Rape/Gang Rape-Sexually Abusive Content
+Financial Fraud Crimes , Debit/Credit Card Fraud , Financial Fraud Crimes , E-Wallet Related Frauds
+Financial Fraud Crimes , Fraud Call/Vishing , Other Cyber Crime , Any Other Cyber Crime
+Financial Fraud Crimes , Online Job Fraud , Financial Fraud Crimes , Fraud Call/Vishing
+Women/Child Related Crime , Online Cyber Bullying/Stalking/Sexting , Other Cyber Crime , Any Other Cyber Crime
+Financial Fraud Crimes , E-Wallet Related Frauds, UPI-Related Frauds , Financial Fraud Crimes , Fraud Call/Vishing
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , Internet Banking-Related Fraud
+Financial Fraud Crimes , Debit/Credit Card Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Online Job Fraud, Online Matrimonial Fraud, Email Phishing, Cyber Bullying/Stalking/Sexting, Demat/Depository Fraud, UPI-Related Frauds, Identity Theft , Other Cyber Crime , Tampering with Computer Source Documents
+Financial Fraud Crimes , Debit/Credit Card Fraud , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , E-Wallet Related Frauds
+Financial Fraud Crimes , Online Cyber Trafficking , Financial Fraud Crimes , E-Wallet Related Frauds
+Women/Child Related Crime , Online Job Fraud , Other Cyber Crime , Cyber Bullying/Stalking/Sexting
+Financial Fraud Crimes , Debit/Credit Card Fraud , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Internet Banking-Related Fraud , Financial Fraud Crimes , Internet Banking-Related Fraud
+Financial Fraud Crimes , Debit/Credit Card Fraud , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
+Other Cyber Crime , Online Job Fraud, Online Matrimonial Fraud, Cyber Bullying/Stalking/Sexting, Email Hacking, Damage to Computer Systems, Tampering with Computer Source Documents, Defacement/Hacking, Unauthorized Access/Data Breach , Other Cyber Crime , Unauthorized Access/Data Breach
+Financial Fraud Crimes , Business Email Compromise/Email Takeover , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Online Cyber Trafficking , Financial Fraud Crimes , Online Job Fraud
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , Online Job Fraud
+Financial Fraud Crimes , Internet Banking-Related Fraud , Financial Fraud Crimes , Internet Banking-Related Fraud
+Financial Fraud Crimes , Fraud Call/Vishing , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , UPI-Related Frauds
+Other Cyber Crime , Provocative Speech of Unlawful Acts , Other Cyber Crime , Unauthorized Access/Data Breach
+Financial Fraud Crimes , Debit/Credit Card Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Debit/Credit Card Fraud , Financial Fraud Crimes , Fraud Call/Vishing
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Online Job Fraud, Online Matrimonial Fraud , Financial Fraud Crimes , Fraud Call/Vishing
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , Fraud Call/Vishing
+Women/Child Related Crime , Online Matrimonial Fraud , Other Cyber Crime , Profile Hacking/Identity Theft
+Women/Child Related Crime , Online Job Fraud , Financial Fraud Crimes , Demat/Depository Fraud
+Financial Fraud Crimes , Online Job Fraud, Online Matrimonial Fraud , Other Cyber Crime , Any Other Cyber Crime
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , E-Wallet Related Frauds
+Women/Child Related Crime , Child Sexual Abuse Material (CSAM), Rape/Gang Rape-Sexually Abusive Content , Other Cyber Crime , Cyber Bullying/Stalking/Sexting
+Financial Fraud Crimes , Online Shopping Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Online Investment Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Women/Child Related Crime , Online Matrimonial Fraud, Cyber Bullying/Stalking/Sexting , Financial Fraud Crimes , Online Matrimonial Fraud
+Women/Child Related Crime , Sale, Publishing and Transmitting Obscene Material/Sexually Explicit Material , Women/Child Related Crime , Sexually Explicit Act
+Women/Child Related Crime , Online Job Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Internet Banking-Related Fraud , Financial Fraud Crimes , Internet Banking-Related Fraud
+Women/Child Related Crime , Online Matrimonial Fraud , Financial Fraud Crimes , Cheating by Impersonation
+Financial Fraud Crimes , Online Job Fraud , Other Cyber Crime , Any Other Cyber Crime
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Internet Banking-Related Fraud , Financial Fraud Crimes , Internet Banking-Related Fraud
+Financial Fraud Crimes , Online Job Fraud, Online Matrimonial Fraud, Email Hacking, Demat/Depository Fraud, UPI-Related Frauds, Unauthorized Access/Data Breach,  E-Wallet Related Frauds, Cyber Bullying/Stalking/Sexting, Fake/Impersonating Profile, Identity theft, Spoofing, and phishing attacks. , Other Cyber Crime , Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks
+Financial Fraud Crimes , E-Wallet Related Frauds , Financial Fraud Crimes , E-Wallet Related Frauds
+Women/Child Related Crime , Cyber Bullying/Stalking/Sexting , Women/Child Related Crime , Sexually Obscene material
+Other Cyber Crime , Online Cyber Bullying/Stalking/Sexting , Financial Fraud Crimes , Fraud Call/Vishing
+Financial Fraud Crimes , Online Job Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Online Job Fraud , Other Cyber Crime , Any Other Cyber Crime
+Online Frauds , Business Email Compromise/Email Takeover, E-Wallet Related Frauds , Financial Fraud Crimes , UPI-Related Frauds
+Women/Child Related Crime , Online Matrimonial Fraud , Other Cyber Crime , Cyber Bullying/Stalking/Sexting
+Financial Fraud Crimes , Email Hacking, Email Phishing,  Impersonating Email, Fake/Impersonating Profile, Profile Hacking/Identity Theft, Online Job Fraud, Online Matrimonial Fraud, Cyber Bullying/Stalking/Sexting,  Damage to Computer Systems, Tampering with Computer Source Documents, Defacement/Hacking, Unauthorized Access/Data Breach, Online Cyber Trafficking , Other Cyber Crime , Unauthorized Access/Data Breach
+Other Cyber Crime , Online Job Fraud, Online Matrimonial Fraud, Online Cyber Trafficking, Email Phishing, Impersonating Email, Provocative Speech of Unlawful Acts, Fake/Impersonating Profile, Profile Hacking/Identity Theft , Other Cyber Crime , Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks
+Financial Fraud Crimes , Debit/Credit Card Fraud , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
+Women/Child Related Crime , Impersonating Email, Fake/Impersonating Profile, Profile Hacking/Identity Theft , Women/Child Related Crime , Sexually Explicit Act
+Financial Fraud Crimes , Debit/Credit Card Fraud , Financial Fraud Crimes , UPI-Related Frauds
+Women/Child Related Crime ,  UPI-Related Frauds , Financial Fraud Crimes , UPI-Related Frauds
+Financial Fraud Crimes , Online Cyber Crime , Other Cyber Crime , Profile Hacking/Identity Theft
+Financial Fraud Crimes , Fraud Call/Vishing , Other Cyber Crime , Debit/Credit Card Fraud, SIM Swap Fraud
