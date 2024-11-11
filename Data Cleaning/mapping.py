@@ -76,6 +76,7 @@ subcategory_to_main_category = {
     'Financial Fraud Crimes': [
         'Debit/Credit Card Fraud',
         'SIM Swap Fraud',
+        'Debit/Credit Card Fraud, SIM Swap Fraud',
         'Internet Banking-Related Fraud',
         'Business Email Compromise/Email Takeover',
         'E-Wallet Related Frauds',
