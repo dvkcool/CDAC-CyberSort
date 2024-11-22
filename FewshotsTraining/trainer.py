@@ -94,12 +94,19 @@ def predict(model, tokenizer, texts):
 category_texts = category_eval["text"].tolist()
 category_labels = category_eval["label"].astype("category").cat.codes.tolist()
 category_predictions = predict(category_model, tokenizer, category_texts)
+category_labels = category_eval["label"].astype("category").cat.codes.tolist()
 
 # Ensure predictions and labels are array-like
 category_predictions = list(category_predictions)
 category_labels = list(category_labels)
 
-category_metrics = compute_metrics((category_predictions, category_labels))
+accuracy = accuracy_score(category_labels, category_predictions)
+precision, recall, f1, _ = precision_recall_fscore_support(category_labels, category_predictions, average="weighted")
+
+print("Category Metrics:")
+print({"accuracy": accuracy, "precision": precision, "recall": recall, "f1": f1})
+
+#category_metrics = compute_metrics((category_predictions, category_labels))
 
 # Evaluate Subcategory Model
 subcategory_texts = subcategory_eval["text"].tolist()
@@ -110,13 +117,9 @@ subcategory_predictions = predict(subcategory_model, tokenizer, subcategory_text
 subcategory_predictions = list(subcategory_predictions)
 subcategory_labels = list(subcategory_labels)
 
-subcategory_metrics = compute_metrics((subcategory_predictions, subcategory_labels))
-
-# Print Results
-print("Category Metrics:")
-print(category_metrics)
-
 print("Subcategory Metrics:")
-print(subcategory_metrics)
+sub_accuracy = accuracy_score(subcategory_labels, subcategory_predictions)
+sprecision, srecall, sf1, _ = precision_recall_fscore_support(category_labels, category_predictions, average="weighted")
+print({"sub_accuracy": accuracy, "precision": sprecision, "recall": srecall, "f1": sf1})
 
 
