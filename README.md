@@ -243,6 +243,7 @@ Subcategory Metrics:
 ## **Contributors**
 - **Divyanshu Kumar** - [dvkcool](https://github.com/dvkcool)
 - **Shingamba Pukhramba** - [shingamba](https://github.com/shingamba)
+- **Y Ranjan Singh** 
 
 Feel free to open an issue for suggestions or improvements.
 
