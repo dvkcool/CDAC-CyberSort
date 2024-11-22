@@ -11,17 +11,17 @@ The project is structured to:
 4. Evaluate the trained models using metrics.
 5. Predict category and subcategory labels for unseen data.
 
-### ** Flowchart**
+### ** Flowchart of few shots training**
 
 ```mermaid
 flowchart TD
-    A[Load Data (CSV)] --> B[Split into Training and Evaluation Sets]
+    A[Load Data] --> B[Split into Training and Evaluation Sets]
     B --> C[Preprocess Text Data]
     C --> D[Train Category Model]
     C --> E[Train Subcategory Model]
     D --> F[Evaluate Category Model]
     E --> G[Evaluate Subcategory Model]
-    F --> H[Calculate Metrics (Accuracy, Precision, Recall, F1)]
+    F --> H[Calculate Metrics Accuracy, Precision, Recall, F1]
     G --> H
     H --> I[Predict Labels for New Data]
 ```
@@ -78,8 +78,9 @@ Example:
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/few-shot-classification.git
-cd few-shot-classification
+git clone https://github.com/dvkcool/CDAC-CyberSort.git
+cd CDAC-CyberSort/FewshotsTraining
+
 ```
 
 ### 2. **Prepare Data**
@@ -87,7 +88,7 @@ Place `category.csv` and `subcategory.csv` in the root directory.
 
 ### 3. **Run the Script**
 ```bash
-python train_and_evaluate.py
+python trainer.py
 ```
 
 ---
@@ -134,8 +135,9 @@ Subcategory Metrics:
 
 ## **Contributors**
 - **Divyanshu Kumar** - [dvkcool](https://github.com/dvkcool)
-- **Shingamba Pukhramba** - [dvkcool](https://github.com/shingamba)
+- **Shingamba Pukhramba** - [shingamba](https://github.com/shingamba)
 
 Feel free to open an issue for suggestions or improvements.
 
 --- 
+          
