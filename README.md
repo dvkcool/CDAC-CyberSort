@@ -1,6 +1,7 @@
 # **CDAC-CyberSort: Few-Shot Text Classification Using Transformers**
+This project focuses on developing a machine learning pipeline to categorize cyber complaints into predefined categories and subcategories. It begins with cleaning the dataset by removing blank spaces, filtering out complaints shorter than 30 characters, and mapping complaints to their correct categories and subcategories. After cleaning, the data is preprocessed into two CSV files—category.csv and subcategory.csv—for easy training.
 
-This repository demonstrates training and evaluating separate models for **category** and **subcategory** classification using the Hugging Face Transformers library. The workflow involves preprocessing data, training models, and evaluating them for accuracy, precision, recall, and F1 scores.
+Traditional models like Random Forest, Complete Random Forest, and Improved Feature Decision Forest (IFDF) were tested but achieved only about 50% accuracy. To overcome this, we used **Few-Shot Classification with Facebook’s BART** (Bidirectional and Auto-Regressive Transformer). **BART** excels at handling complex sentence structures, incomplete text, and mixed-language input, like Hinglish. By fine-tuning BART with minimal labeled data, we achieved a significant accuracy improvement, **reaching 90% accuracy** in complaint categorization. This demonstrates the effectiveness of transformer models for real-world classification tasks, particularly when data is limited.
 
 ## Steps Involved
 
