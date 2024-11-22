@@ -25,7 +25,7 @@ graph TD
 ---
 
 ### 2. Data Preprocessing
-We used the `dataArranger.py` script to create two separate datasets for further analysis:
+We used the `FewshotsTraining/dataArranger.py` script to create two separate datasets for further analysis:
 - **`category.csv`**: Contains the complaint text and its corresponding category.
 - **`subcategory.csv`**: Contains the complaint text and its corresponding subcategory.
 
