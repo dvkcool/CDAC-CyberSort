@@ -244,7 +244,7 @@ Subcategory Metrics:
 ## **Contributors**
 - **Mr. Y Ranjan Singh** : Scientist E, Joint Director, C-DAC CINE
 - **Mr. Divyanshu Kumar** : Scientist B, C-DAC CINE [dvkcool](https://github.com/dvkcool)
-- **Mr. Shingamba Pukhramba** : Project Associate, C-DAC CINE [shingamba](https://github.com/shingamba)
+- **Mr. Shingamba Pukhrambam** : Project Associate, C-DAC CINE [shingamba](https://github.com/shingamba)
 
 
 Feel free to open an issue for suggestions or improvements.
