@@ -1,4 +1,8 @@
 pandas
+scikit-learn
 torch
 transformers
-scikit-learn
+llama
+numpy
+scipy
+tqdm
