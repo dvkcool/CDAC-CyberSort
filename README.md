@@ -52,9 +52,9 @@ A **few-shot classification** approach using **Facebook's BART** model yielded a
 ```mermaid
 graph TD
   A[Start] --> B[Model Comparison]
-  B --> C[Random Forest (~50% Accuracy)]
-  B --> D[Complete Random Forest (~50% Accuracy)]
-  B --> E[IFDF (~50% Accuracy)]
+  B --> C[Random Forest ~50% Accuracy]
+  B --> D[Complete Random Forest ~50% Accuracy]
+  B --> E[IFDF ~50% Accuracy]
   B --> F[Facebook BART Few-Shot Classification]
   F --> G[90% Accuracy Achieved]
   C --> H[Low Accuracy]
@@ -124,11 +124,8 @@ graph TD
 
 --- 
 
-This documentation will guide you through each step of the process. For further queries, feel free to open an issue or contact the development team. 
 
-
-
-## **Workflow Overview**
+## **ML Training Workflow Overview**
 
 The project is structured to:
 1. Load datasets (`category.csv` and `subcategory.csv`).
@@ -137,7 +134,7 @@ The project is structured to:
 4. Evaluate the trained models using metrics.
 5. Predict category and subcategory labels for unseen data.
 
-### ** Flowchart of few shots training**
+### **Flowchart of few shots training**
 
 ```mermaid
 flowchart TD
